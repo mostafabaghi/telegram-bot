@@ -1,0 +1,17 @@
+{
+  "name": "mostafabaghi/telegram-bot",
+  "description": "A full-featured PHP class for interacting with Telegram Bot API",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "TelegramBot\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10"
+  }
+}
