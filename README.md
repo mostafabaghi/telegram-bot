@@ -1,5 +1,7 @@
 # Telegram Bot Plus
 
+![Telegram Bot Api PHP](screenshot.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A modern, fully featured PHP wrapper for the Telegram Bot API — built for developers who want full control and modern structure with PSR-4 compatibility.
